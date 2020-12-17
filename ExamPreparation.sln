@@ -3,7 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30611.23
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamPreparation", "ExamPreparation\ExamPreparation.csproj", "{E8921FA3-4AC6-45F8-A67D-4B88601894CB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasketballEquipment", "ExamPreparation\BasketballEquipment.csproj", "{E8921FA3-4AC6-45F8-A67D-4B88601894CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Filming", "Filming\Filming.csproj", "{4E32DFFE-225C-417B-A3E3-02A9C206569D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasterTrip", "EasterTrip\EasterTrip.csproj", "{D09C3948-A232-4E86-AD60-7AB6351DC93A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasterEgg", "EasterEgg\EasterEgg.csproj", "{ABC9875E-B5AD-4277-B311-EA10AF8CE517}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dartz", "Dartz\Dartz.csproj", "{BB27768D-0029-4264-B627-86A4FEBD50AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasterDecoration", "EasterDecoration\EasterDecoration.csproj", "{5E34EE97-6EF6-441E-9F0C-3825FEE53A58}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +25,26 @@ Global
 		{E8921FA3-4AC6-45F8-A67D-4B88601894CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E8921FA3-4AC6-45F8-A67D-4B88601894CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E8921FA3-4AC6-45F8-A67D-4B88601894CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E32DFFE-225C-417B-A3E3-02A9C206569D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E32DFFE-225C-417B-A3E3-02A9C206569D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E32DFFE-225C-417B-A3E3-02A9C206569D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E32DFFE-225C-417B-A3E3-02A9C206569D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D09C3948-A232-4E86-AD60-7AB6351DC93A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D09C3948-A232-4E86-AD60-7AB6351DC93A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D09C3948-A232-4E86-AD60-7AB6351DC93A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D09C3948-A232-4E86-AD60-7AB6351DC93A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABC9875E-B5AD-4277-B311-EA10AF8CE517}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABC9875E-B5AD-4277-B311-EA10AF8CE517}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABC9875E-B5AD-4277-B311-EA10AF8CE517}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABC9875E-B5AD-4277-B311-EA10AF8CE517}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB27768D-0029-4264-B627-86A4FEBD50AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB27768D-0029-4264-B627-86A4FEBD50AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB27768D-0029-4264-B627-86A4FEBD50AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB27768D-0029-4264-B627-86A4FEBD50AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E34EE97-6EF6-441E-9F0C-3825FEE53A58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E34EE97-6EF6-441E-9F0C-3825FEE53A58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E34EE97-6EF6-441E-9F0C-3825FEE53A58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E34EE97-6EF6-441E-9F0C-3825FEE53A58}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
